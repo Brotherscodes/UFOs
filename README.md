@@ -7,7 +7,7 @@ Using HTML and JavaScript to create an interactive webpage that allows users to 
 <br>
 
 <p align=center>
-<img src = Images/ufo_img.jpg>
+<img src = Images/ufo_img.jpg width =1000 height =400
 
 <br>
 
