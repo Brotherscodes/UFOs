@@ -12,3 +12,14 @@ Using HTML and JavaScript to create an interactive webpage that allows users to 
 <br>
 
 
+## A `storyboard` serves as a kind of blueprint for your site and helps with the transition from idea to finished product
+
+<br>
+
+<p align=center>
+<img src=Images/storyboard.png width=800>
+
+<br>
+
+<p align=center>
+<img src=Images/storyboard2.png width=800><img src=Images/storyboard3.png width=800>
