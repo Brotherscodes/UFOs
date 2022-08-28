@@ -23,7 +23,10 @@ Link to webpage: https://brotherscodes.github.io/UFOs/
 
 
 
-## A `storyboard` serves as a kind of blueprint for your site and helps with the transition from idea to finished product
+
+
+## Methodology:
+A `storyboard` serves as a kind of blueprint for your site and helps with the transition from idea to finished product
 
 <br>
 
