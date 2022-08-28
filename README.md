@@ -2,12 +2,13 @@
 
 ## Project Overview:
 
+<b>
+
 Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to guide the appearance of the webpage and give the user an interative and responsive experience.
 
 <br>
 
 Link to webpage: https://brotherscodes.github.io/UFOs/
-  
 
 <br>
 
@@ -15,6 +16,9 @@ Link to webpage: https://brotherscodes.github.io/UFOs/
 <img src = Images/ufo_image.png width=900 height= 400
 
 <br>
+
+## Background: 
+
 
 
 ## A `storyboard` serves as a kind of blueprint for your site and helps with the transition from idea to finished product
