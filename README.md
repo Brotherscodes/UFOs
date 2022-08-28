@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-Using `HTM`L and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to guide the appearance of the webpage and give the user an interative and responsive experience.
+Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to guide the appearance of the webpage and give the user an interative and responsive experience.
 
 <br>
 
@@ -29,14 +29,12 @@ Link to webpage: https://brotherscodes.github.io/UFOs/
 <p align=center>
 <img src=Images/storyboard2.png width=800><img src=Images/storyboard3.png width=800>
   
-  
-  Link to webpage: https://brotherscodes.github.io/UFOs/
-  
 ## Resources:
 
 <br>
 
 - Software:
+    - `Javascript`
     - `HTML5`
     - `Bootstrap`
     - `CSS`
