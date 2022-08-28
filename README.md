@@ -5,6 +5,7 @@
 <b>
 
 Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to guide the appearance of the webpage and give the user an interative and responsive experience.
+<b/>
 
 <br>
 
