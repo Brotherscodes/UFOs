@@ -1,13 +1,13 @@
-# UFOs
+# UFO Sightings
 
 ## Project Overview:
 
-Using HTML and JavaScript to create an interactive webpage that allows users to parse the data around UFO sightings. Two things were built: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript).
+Using HTML and JavaScript to create an interactive webpage that allows users to parse the given data around UFO sightings. CSS and Bootstrap were used to guide the appearance of the webpage and give the user an interative and responsive experience.
 
 <br>
 
 <p align=center>
-<img src = Images/ufo_top_img.jpg width=800 height= 400
+<img src = Images/ufo_image.png width=800 height= 400
 
 <br>
 
