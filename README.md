@@ -12,7 +12,7 @@ Dana, who is a data journalist from McMinnville, Oregon wants us to create and c
 
 <b>
 
-Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to modify the aesthetics of the webpage and give the user an interactive and responsive experience. Our data was provided in a Javascript array located in the `data.js` file. Using javascript's ability to manipulate data, filters were added allowing for user input regarding date, city, state, country, and shape to refine the results.
+`HTML` and `JavaScript` were used to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to modify the aesthetics of the webpage and give the user an interactive and responsive experience. Our data was provided in a Javascript array located in the `data.js` file. Using javascript's ability to manipulate data, filters were added allowing for user input regarding date, city, state, country, and shape to refine the results.
 
 <br>
 
