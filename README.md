@@ -43,7 +43,7 @@ A `storyboard` was used as a kind of blueprint for our site which helped with th
   
 <br>
 
-A "Filter Search" ability was added to our page, which gave the user the ability to refine the results that were returned from the data table.
+A `"Filter Search"` ability was added to our page, which gave the user the ability to refine the results that were returned from the data table.
 
 <br>
 
@@ -52,7 +52,7 @@ A "Filter Search" ability was added to our page, which gave the user the ability
 <br>
 <br>
 
-The image below provides an example of how to filter your search. We asked for UFO sighting results located in California and in the shape of a triangle. The returned results were filtered by our inputs and only returned what we asked for.
+The image below provides an example of how to filter your search. We wanted UFO sighting results in California and in the shape of a triangle. The returned results were filtered by our inputs. All inputs are case-sensitive and require lower-case and proper spelling.
 
 <img src=Images/filtered_webpage.jpg>
 
@@ -81,8 +81,6 @@ The Final result is a fully operative webpage equipped with a title, text, Image
 
 - The Filter Search could have been a drop down menu versus an input box to limit spelling or case-related errors. Although the filter would yield the same results, it would provide the user with a more intuitive experience.
 - Providing a `click-button` for each filter as we seen when adding the first filter would help when parsing through the sightings data. The functionality of our Filter Search wouldn't change but it would improve how the user interacts with it.
-
-<br>
 
 ## Resources:
 
