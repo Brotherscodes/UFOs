@@ -29,9 +29,6 @@ Link to webpage: https://brotherscodes.github.io/UFOs/
 
 ## Methodology:
 
-<br>
-
-
 A `storyboard` was used as a kind of blueprint for our site which helped with the transition from idea to finished product. 
 
 <br>
@@ -51,6 +48,16 @@ A "Filter Search" ability was added to our page, which gave the user the ability
 <br>
 
 <img src= Images/filter_search.png>
+
+<br>
+
+# Final Result:
+
+The Final result is a fully operative webpage equipped with a title, text, Images, and a table with five fully functional filters that allow users to interact with the data visualizations.
+
+<br>
+
+<img src= Images/final_webpage.png>
 
 <br>
 
@@ -75,11 +82,3 @@ A "Filter Search" ability was added to our page, which gave the user the ability
     - `data.js` (our data regarding UFOs)
 
 <br>
-
-# Final Result:
-
-The Final result is a fully operative webpage equipped with a title, text, Images, and a table with five fully functional filters that allow users to interact with the data visualizations.
-
-<br>
-
-<img src= Images/final_webpage.png>
