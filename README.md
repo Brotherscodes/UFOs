@@ -1,10 +1,18 @@
 # UFO Sightings
 
+## Background: 
+
+<br>
+
+Dana, who is a data journalist from McMinnville, Oregon wants us to create and customize a webpage that will allow users to interact with the data she has collected around UFO sightings in her hometown. 
+
+<br>
+
 ## Project Overview:
 
 <b>
 
-Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to guide the appearance of the webpage and give the user an interative and responsive experience.
+Using `HTML` and `JavaScript` to create an interactive webpage that allows users to parse the given data around UFO sightings. `CSS` and `Bootstrap` were used to modify the aesthetics of the webpage and give the user an interactive and responsive experience. Our data was provided in a Javascript array located in the `data.js` file. Using javascript's ability to manipulate data, filters were added allowing for user input regarding date, city, state, country, and shape to refine the results.
 
 <br>
 
@@ -19,14 +27,8 @@ Link to webpage: https://brotherscodes.github.io/UFOs/
 
 <br>
 
-## Background: 
-
-
-
-
-
 ## Methodology:
-A `storyboard` serves as a kind of blueprint for your site and helps with the transition from idea to finished product
+First A `storyboard` was used as a kind of blueprint for our site and helps with the transition from idea to finished product. 
 
 <br>
 
@@ -55,7 +57,13 @@ A `storyboard` serves as a kind of blueprint for your site and helps with the tr
 - Code for reference:
     - `index.html` (template for the webpage)
     - `style.css` (CSS styling for webpage)
-    - `app.js` (Javscript-added filter table and more)
+    - `app.js` (Javascript-added filter table and more)
     - `data.js` (our data regarding UFOs)
 
 <br>
+
+
+
+# Final Result:
+
+The Final result is a fully operative webpage equipped with a title, text, Images, and a table with five fully functional filters that allow users to interact with the data visualizations.
