@@ -52,7 +52,7 @@ A `"Filter Search"` ability was added to our page, which gave the user the abili
 <br>
 <br>
 
-The image below provides an example of how to filter your search. We wanted UFO sighting results in California and in the shape of a triangle. The returned results were filtered by our inputs. All inputs are case-sensitive and require lower-case and proper spelling.
+The image below provides an example of how to filter your search. We wanted UFO sighting in California and in the shape of a triangle. The returned results were filtered by our inputs. All inputs are case-sensitive and require lower-case and proper spelling.
 
 <img src=Images/filtered_webpage.jpg>
 
