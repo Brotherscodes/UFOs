@@ -1,8 +1,8 @@
 # UFO Sightings
 
-## Background: 
-
 <b>
+
+## Background: 
 
 Dana, who is a data journalist from McMinnville, Oregon wants us to create and customize a webpage that will allow users to interact with the data she has collected around UFO sightings in her hometown. 
 
