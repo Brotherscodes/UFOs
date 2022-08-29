@@ -50,6 +50,7 @@ A "Filter Search" ability was added to our page, which gave the user the ability
 <img src= Images/filter_search.png>
 
 <br>
+<br>
 
 The image below provides an example of how to filter your search. We asked for UFO sighting results located in California and in the shape of a triangle. The returned results were filtered by our inputs and only returned what we asked for.
 
