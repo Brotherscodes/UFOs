@@ -52,7 +52,7 @@ A `"Filter Search"` ability was added to our page, which gave the user the abili
 <br>
 <br>
 
-The image below provides an example of how to filter your search. We wanted UFO sighting in California and in the shape of a triangle. The returned results were filtered by our inputs. All inputs are case-sensitive and require lower-case and proper spelling.
+The image below provides an example of how to filter your search. We wanted UFO sightings in California and in the shape of a triangle. The returned results were filtered by our inputs. All filter inputs are case-sensitive and require lower-case and proper spelling.
 
 <img src=Images/filtered_webpage.jpg>
 
@@ -72,19 +72,17 @@ The Final result is a fully operative webpage equipped with a title, text, Image
 
 ## Summary:
 
-### Drawbacks:
+#### Drawbacks:
 
 - The Filter Search is strictly `case-sensitive` and does not work if typed in upper-case.
 - This dataset Dana gave us is from 2010 and is outdated.
 
-### Further Improvement:
+#### Further Improvement:
 
 - The Filter Search could have been a drop down menu versus an input box to limit spelling or case-related errors. Although the filter would yield the same results, it would provide the user with a more intuitive experience.
 - Providing a `click-button` for each filter as we seen when adding the first filter would help when parsing through the sightings data. The functionality of our Filter Search wouldn't change but it would improve how the user interacts with it.
 
 ## Resources:
-
-<br>
 
 - Software:
     - `Javascript`
